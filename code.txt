@@ -2,3 +2,7 @@
 
 ## def division(x,y):
    return x/y 
+
+
+## def arearec(l,b):
+   return l*b
